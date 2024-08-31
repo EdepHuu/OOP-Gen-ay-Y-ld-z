@@ -1,0 +1,14 @@
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\bin\Debug\net8.0\Lesson2.exe
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\bin\Debug\net8.0\Lesson2.deps.json
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\bin\Debug\net8.0\Lesson2.runtimeconfig.json
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\bin\Debug\net8.0\Lesson2.dll
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\bin\Debug\net8.0\Lesson2.pdb
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\obj\Debug\net8.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfoInputs.cache
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfo.cs
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\obj\Debug\net8.0\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\obj\Debug\net8.0\Lesson2.dll
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\obj\Debug\net8.0\refint\Lesson2.dll
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\obj\Debug\net8.0\Lesson2.pdb
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\obj\Debug\net8.0\Lesson2.genruntimeconfig.cache
+C:\Users\Metehan Dündar\Documents\GitHub\OOP-Gencay-Yildiz\2. Ders\Lesson2\obj\Debug\net8.0\ref\Lesson2.dll
